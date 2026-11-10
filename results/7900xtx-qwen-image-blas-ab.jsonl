@@ -1,0 +1,15 @@
+{"arm": "default", "run": "warmup", "seed": 1111, "wall_s": 102.1, "s_per_step": 0.7692307692307692, "png_sha": "dff4ff4327fca763"}
+{"arm": "default", "run": "timed1", "seed": 2222, "wall_s": 33.1, "s_per_step": 0.7575757575757576, "png_sha": "85e70f3b5c658ba3"}
+{"arm": "default", "run": "timed2", "seed": 3333, "wall_s": 33.0, "s_per_step": 0.7633587786259541, "png_sha": "c44119ca919d9898"}
+{"arm": "hipblaslt", "run": "warmup", "seed": 1111, "wall_s": 36.0, "s_per_step": 0.7751937984496123, "png_sha": "1818e4542041f12b"}
+{"arm": "hipblaslt", "run": "timed1", "seed": 2222, "wall_s": 33.0, "s_per_step": 0.7633587786259541, "png_sha": "4695ac85b39ab7d5"}
+{"arm": "hipblaslt", "run": "timed2", "seed": 3333, "wall_s": 33.0, "s_per_step": 0.7633587786259541, "png_sha": "c4a9477eca1858f7"}
+{"arm": "tunableop-tune", "run": "warmup", "seed": 1111, "wall_s": 438.2, "s_per_step": 0.9174311926605504, "png_sha": "30fe186006575372"}
+{"arm": "tunableop-tune", "run": "timed1", "seed": 2222, "wall_s": 33.0, "s_per_step": 0.7633587786259541, "png_sha": "acee3f9064971083"}
+{"arm": "tunableop-tune", "run": "timed2", "seed": 3333, "wall_s": 33.0, "s_per_step": 0.7633587786259541, "png_sha": "576d0918945927e2"}
+{"arm": "tunableop-read", "run": "warmup", "seed": 1111, "wall_s": 36.0, "s_per_step": 0.78125, "png_sha": "a577301dcecf61b6"}
+{"arm": "tunableop-read", "run": "timed1", "seed": 2222, "wall_s": 33.0, "s_per_step": 0.7633587786259541, "png_sha": "69aae64a09be15a8"}
+{"arm": "tunableop-read", "run": "timed2", "seed": 3333, "wall_s": 33.0, "s_per_step": 0.7633587786259541, "png_sha": "da8eb79af84f5dab"}
+{"arm": "default-again", "run": "warmup", "seed": 1111, "wall_s": 36.0, "s_per_step": 0.78125, "png_sha": "b445b5494783ad1f"}
+{"arm": "default-again", "run": "timed1", "seed": 2222, "wall_s": 39.2, "s_per_step": 0.7633587786259541, "png_sha": "effb640d444f0626"}
+{"arm": "default-again", "run": "timed2", "seed": 3333, "wall_s": 42.4, "s_per_step": 0.7633587786259541, "png_sha": "01498c1d36bcce5c"}
